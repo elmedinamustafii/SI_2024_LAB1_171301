@@ -1,0 +1,11 @@
+commit b053792f6dcaaa9da73de56329472bdbc604e5f0
+Author: unknown <elmedinaa.mustafi@gmail.com>
+Date:   Sun Apr 14 21:04:12 2024 +0200
+
+    Fixed mistake A: Error in method filterOddLengthStrings and mistake B: Error in method makeBigStringFrom
+
+commit a50186e8a0902fd9dc193d94f52cfd2f028a9a9d
+Author: unknown <elmedinaa.mustafi@gmail.com>
+Date:   Sun Apr 14 20:47:42 2024 +0200
+
+    Initial commit
